@@ -303,6 +303,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/wandschalter-deckenventilatoren-mit-licht-unterputz/a-1903"
   },
+  "a-1918": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/waveform/a-1918"
+  },
   "a-1921": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/monarchtrio/a-1921"
@@ -382,10 +386,6 @@
   "a-2144": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/flight/a-2144"
-  },
-  "a-2161": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/blackmagic/a-2161"
   },
   "a-2162": {
     "status": "IN_STOCK",
@@ -3775,14 +3775,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/nightflight/a-9313223"
   },
-  "a-9313236": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/helico/a-9313236"
-  },
-  "a-9313237": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/helico/a-9313237"
-  },
   "a-21029549": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/fijian/a-21029549"
@@ -4512,7 +4504,7 @@
     "url": "https://www.creoven.de/deckenventilator/hdinox/a-1353202720"
   },
   "724206910": {
-    "status": "IN_STOCK",
+    "status": "OUT_OF_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/westinghouse-ersatzglas-fuer-deckenventilator-colosseum-72417-72420/a-1353202739"
   },
   "a-1353202740": {
