@@ -155,7 +155,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99666": {
+  "99669": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -2179,21 +2179,9 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-134285"
   },
-  "a-134286": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/cruiser/a-134286"
-  },
   "a-134287": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-134287"
-  },
-  "a-134291": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/cruiser/a-134291"
-  },
-  "a-134293": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/cruiser/a-134293"
   },
   "a-134296": {
     "status": "IN_STOCK",
@@ -3194,10 +3182,6 @@
   "a-516098": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/aviatos/a-516098"
-  },
-  "a-531016": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/megara/a-531016"
   },
   "a-531018": {
     "status": "IN_STOCK",
@@ -7074,5 +7058,17 @@
   "a-1353208817": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/alo/a-1353208817"
+  },
+  "a-1353208836": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208836"
+  },
+  "a-1353208837": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208837"
+  },
+  "a-1353208838": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208838"
   }
 }
