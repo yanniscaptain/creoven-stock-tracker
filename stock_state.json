@@ -155,7 +155,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99666": {
+  "99669": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -2939,10 +2939,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/manhattan/a-334960"
   },
-  "a-337260": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/hydra/a-337260"
-  },
   "a-338201": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/punt/a-338201"
@@ -4239,7 +4235,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19601": {
+  "19602": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4543,7 +4539,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-fuer-faro-deckenventilator-33385-tonsay/a-1353202840"
   },
-  "6562540": {
+  "6561340": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/deckenventilator-verlaengerungsstange-espresso-dunkles-braun-in-verschiedenen-laengen/a-1353202891"
   },
@@ -4968,7 +4964,7 @@
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzglaeser/ersatzglas-fuer-deckenventilator-monarch-supreme/a-1353204024"
   },
   "7826440": {
-    "status": "IN_STOCK",
+    "status": "OUT_OF_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ohne-beleuchtung/100-119-cm/westinghouse-deckenventilator-ohne-licht-nevada-105-cm-fuer-raeume-bis-20-m/a-1353204036"
   },
   "a-1353204049": {
@@ -5250,10 +5246,6 @@
   "a-1353204308": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile-512112/a-1353204308"
-  },
-  "a-1353204309": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ersatzteile-513202/a-1353204309"
   },
   "a-1353204310": {
     "status": "IN_STOCK",
