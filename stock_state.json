@@ -99,10 +99,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/sydney/a-427"
   },
-  "a-429": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/paloma/a-429"
-  },
   "a-501": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/tropical/a-501"
@@ -4235,7 +4231,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19602": {
+  "19601": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4484,7 +4480,7 @@
     "url": "https://www.creoven.de/deckenventilator/hdinox/a-1353202720"
   },
   "724206910": {
-    "status": "OUT_OF_STOCK",
+    "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/westinghouse-ersatzglas-fuer-deckenventilator-colosseum-72417-72420/a-1353202739"
   },
   "a-1353202740": {
@@ -4982,10 +4978,6 @@
   "a-1353204061": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/pemba/a-1353204061"
-  },
-  "a-1353204063": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/nuu/a-1353204063"
   },
   "a-1353204066": {
     "status": "IN_STOCK",
@@ -6002,22 +5994,6 @@
   "a-1353206687": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/punt/a-1353206687"
-  },
-  "a-1353206688": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/punt/a-1353206688"
-  },
-  "a-1353206689": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/punt/a-1353206689"
-  },
-  "a-1353206690": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/punt/a-1353206690"
-  },
-  "a-1353206691": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/punt/a-1353206691"
   },
   "a-1353206738": {
     "status": "IN_STOCK",
@@ -7047,6 +7023,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/alo/a-1353208817"
   },
+  "a-1353208834": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/punt/a-1353208834"
+  },
   "a-1353208836": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208836"
@@ -7058,5 +7038,21 @@
   "a-1353208838": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208838"
+  },
+  "a-1353208847": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/punt/a-1353208847"
+  },
+  "a-1353208848": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/punt/a-1353208848"
+  },
+  "a-1353208849": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/punt/a-1353208849"
+  },
+  "a-1353208850": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/punt/a-1353208850"
   }
 }
