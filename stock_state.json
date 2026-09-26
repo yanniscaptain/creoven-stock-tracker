@@ -151,7 +151,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99666": {
+  "99669": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -4223,7 +4223,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19602": {
+  "19601": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4587,7 +4587,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/deckenventilator-verlaengerungsstange-stahl-gebuerstet-in-verschiedenen-laengen/a-1353203215"
   },
-  "6560940": {
+  "6560740": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/deckenventilator-verlaengerungsstange-edelstahl-in-verschiedenen-laengen/a-1353203216"
   },
@@ -5046,10 +5046,6 @@
   "a-1353204195": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/builder/a-1353204195"
-  },
-  "a-1353204197": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-je-modell/ersatzteile-fuer-hunter-24325-outdoor-elements-aluminium/a-1353204197"
   },
   "a-1353204198": {
     "status": "IN_STOCK",
@@ -6910,6 +6906,10 @@
   "a-1353208767": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/alo/a-1353208767"
+  },
+  "a-1353208768": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/carla/a-1353208768"
   },
   "a-1353208776": {
     "status": "IN_STOCK",
