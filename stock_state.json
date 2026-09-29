@@ -151,7 +151,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99669": {
+  "99666": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -1070,10 +1070,6 @@
   "a-34260": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/barth/a-34260"
-  },
-  "a-34261": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/barth/a-34261"
   },
   "a-34265": {
     "status": "IN_STOCK",
@@ -4247,10 +4243,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/flat-103/a-1353201772"
   },
-  "a-1353201775": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353201775"
-  },
   "a-1353201781": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/flush/a-1353201781"
@@ -4899,10 +4891,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-fuer-deckenventilator-210925-attitude/a-1353203911"
   },
-  "a-1353203970": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353203970"
-  },
   "EK044601142": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/plus/a-1353203979"
@@ -5046,6 +5034,10 @@
   "a-1353204195": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/builder/a-1353204195"
+  },
+  "a-1353204197": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/outdoor-elements/a-1353204197"
   },
   "a-1353204198": {
     "status": "IN_STOCK",
@@ -5667,10 +5659,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/tabarca/a-1353205251"
   },
-  "a-1353205256": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205256"
-  },
   "a-1353205262": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/akmani/a-1353205262"
@@ -5871,18 +5859,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205940"
   },
-  "a-1353205943": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205943"
-  },
-  "a-1353205944": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205944"
-  },
-  "a-1353205946": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205946"
-  },
   "a-1353205947": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/classicflat/a-1353205947"
@@ -5894,10 +5870,6 @@
   "a-1353205959": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/classicroyal/a-1353205959"
-  },
-  "a-1353205975": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/classicroyal/a-1353205975"
   },
   "a-1353206145": {
     "status": "IN_STOCK",
