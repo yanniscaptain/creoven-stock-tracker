@@ -4219,7 +4219,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19602": {
+  "19601": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4267,9 +4267,9 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-je-modell/ersatzteile-fuer-faro-deckenventilator-33350-mallorca/a-1353201803"
   },
-  "FL-985": {
+  "a-1353201804": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-je-modell/ersatzteile-fuer-faro-deckenventilator-33313-vanu/a-1353201804"
+    "url": "https://www.creoven.de/deckenventilator/vanu/a-1353201804"
   },
   "a-1353201805": {
     "status": "IN_STOCK",
@@ -6154,6 +6154,10 @@
   "a-1353207277": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/elyse/a-1353207277"
+  },
+  "a-1353207279": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/alloy/a-1353207279"
   },
   "a-1353207283": {
     "status": "IN_STOCK",
