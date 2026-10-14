@@ -2115,30 +2115,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/typhoon/a-134106"
   },
-  "a-134276": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134276"
-  },
-  "a-134277": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134277"
-  },
-  "a-134278": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134278"
-  },
-  "a-134282": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134282"
-  },
-  "a-134283": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134283"
-  },
-  "a-134284": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/klim/a-134284"
-  },
   "a-134285": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-134285"
@@ -2590,14 +2566,6 @@
   "a-313298": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/aviatos/a-313298"
-  },
-  "a-313590": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/talos/a-313590"
-  },
-  "a-313591": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/talos/a-313591"
   },
   "a-315220": {
     "status": "IN_STOCK",
@@ -4191,7 +4159,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19602": {
+  "19601": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -6954,5 +6922,29 @@
   "a-1353208852": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/punt/a-1353208852"
+  },
+  "a-1353208859": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208859"
+  },
+  "a-1353208860": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208860"
+  },
+  "a-1353208862": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208862"
+  },
+  "a-1353208863": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208863"
+  },
+  "a-1353208868": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208868"
+  },
+  "a-1353208869": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/klim/a-1353208869"
   }
 }
