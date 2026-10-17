@@ -151,7 +151,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99666": {
+  "99669": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -361,7 +361,7 @@
   },
   "a-2097": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-2097"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-2097"
   },
   "a-2116": {
     "status": "IN_STOCK",
@@ -989,7 +989,7 @@
   },
   "a-33826": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-33826"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-33826"
   },
   "a-33828": {
     "status": "IN_STOCK",
@@ -2931,22 +2931,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/montclaire/a-511061"
   },
-  "a-511690": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-511690"
-  },
-  "a-511693": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-511693"
-  },
-  "a-511694": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-511694"
-  },
-  "a-511695": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-511695"
-  },
   "a-512111": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/girona/a-512111"
@@ -3046,22 +3030,6 @@
   "a-513725": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/caribbeandream/a-513725"
-  },
-  "a-514290": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-514290"
-  },
-  "a-514293": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-514293"
-  },
-  "a-514294": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-514294"
-  },
-  "a-514295": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/volare/a-514295"
   },
   "a-516088": {
     "status": "IN_STOCK",
@@ -4155,7 +4123,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19601": {
+  "19602": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4229,23 +4197,23 @@
   },
   "a-1353201859": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353201859"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353201859"
   },
   "a-1353201862": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353201862"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353201862"
   },
   "a-1353201865": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353201865"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353201865"
   },
   "a-1353201866": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353201866"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353201866"
   },
   "a-1353201867": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353201867"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353201867"
   },
   "a-1353201870": {
     "status": "IN_STOCK",
@@ -6446,10 +6414,6 @@
   "a-1353208485": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/kari/a-1353208485"
-  },
-  "a-1353208500": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/modesto/a-1353208500"
   },
   "a-1353208501": {
     "status": "IN_STOCK",
