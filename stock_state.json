@@ -83,6 +83,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/steelstar/a-415"
   },
+  "a-421": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/steelstar/a-421"
+  },
   "a-423": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/paloma/a-423"
@@ -147,7 +151,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99669": {
+  "99666": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -3883,6 +3887,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/72419/a-1353201577"
   },
+  "a-1353201578": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/1353201578/a-1353201578"
+  },
   "33929": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/rcfaro/a-1353201579"
@@ -3902,6 +3910,10 @@
   "785456910": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzglaeser/westinghouse-ersatzglas-fuer-deckenventilator-hercules-78545/a-1353201593"
+  },
+  "a-1353201595": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/comet/a-1353201595"
   },
   "a-1353201596": {
     "status": "IN_STOCK",
@@ -4111,7 +4123,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19601": {
+  "19602": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -4174,6 +4186,10 @@
   "a-1353201807": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/palao/a-1353201807"
+  },
+  "a-1353201808": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/palao/a-1353201808"
   },
   "3R141": {
     "status": "IN_STOCK",
@@ -4526,6 +4542,10 @@
   "a-1353203463": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cosmos/a-1353203463"
+  },
+  "a-1353203465": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/quince/a-1353203465"
   },
   "a-1353203570": {
     "status": "IN_STOCK",
@@ -5881,19 +5901,19 @@
   },
   "a-1353207188": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353207188"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353207188"
   },
   "a-1353207189": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353207189"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353207189"
   },
   "a-1353207190": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353207190"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353207190"
   },
   "a-1353207191": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoelements/a-1353207191"
+    "url": "https://www.creoven.de/deckenventilator/elements/a-1353207191"
   },
   "a-1353207192": {
     "status": "IN_STOCK",
@@ -5978,6 +5998,10 @@
   "a-1353207276": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/industrial/a-1353207276"
+  },
+  "a-1353207277": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/elyse/a-1353207277"
   },
   "a-1353207279": {
     "status": "IN_STOCK",
@@ -6675,6 +6699,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/heywood/a-1353208758"
   },
+  "a-1353208759": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/heywood/a-1353208759"
+  },
   "a-1353208762": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/universal/a-1353208762"
@@ -6730,10 +6758,6 @@
   "a-1353208784": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208784"
-  },
-  "a-1353208785": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/rudder/a-1353208785"
   },
   "a-1353208786": {
     "status": "IN_STOCK",
