@@ -151,7 +151,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/wandschalter/wandschalter-stufentrafo-scnr5/a-600"
   },
-  "99666": {
+  "99669": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/zubehoer/slow-motion/a-605"
   },
@@ -2569,7 +2569,7 @@
   },
   "a-315220": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoairscrew/a-315220"
+    "url": "https://www.creoven.de/deckenventilator/airscrew/a-315220"
   },
   "a-315221": {
     "status": "IN_STOCK",
@@ -2585,15 +2585,15 @@
   },
   "a-315241": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoairscrew/a-315241"
+    "url": "https://www.creoven.de/deckenventilator/airscrew/a-315241"
   },
   "a-315242": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoairscrew/a-315242"
+    "url": "https://www.creoven.de/deckenventilator/airscrew/a-315242"
   },
   "a-315243": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/ecoairscrew/a-315243"
+    "url": "https://www.creoven.de/deckenventilator/airscrew/a-315243"
   },
   "a-315244": {
     "status": "IN_STOCK",
@@ -4123,7 +4123,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/en2/a-1353201741"
   },
-  "19602": {
+  "19601": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/fluegelsatz-roadhouse-fuer-deckenventilator-132-cm/a-1353201747"
   },
@@ -6758,6 +6758,10 @@
   "a-1353208784": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208784"
+  },
+  "a-1353208785": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/rudder/a-1353208785"
   },
   "a-1353208786": {
     "status": "IN_STOCK",
