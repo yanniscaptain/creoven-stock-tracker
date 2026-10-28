@@ -427,10 +427,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilatoren/st-alu/a-2231"
   },
-  "7888240": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilatoren/zubeh-r/verl-ngerungsstangen/deckenventilator-verlaengerungsstange-messing-poliert/a-2233"
-  },
   "a-2234": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilatoren/zubeh-r/verl-ngerungsstangen/deckenventilator-verlaengerungsstange-silber/a-2234"
@@ -459,13 +455,13 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cabofrio/a-2250"
   },
-  "26351": {
+  "a-2264": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/zubeh-r/verl-ngerungsstangen/verlaengerungsstange-braun-hunter/a-2264"
+    "url": "https://www.creoven.de/deckenventilator/hubr/a-2264"
   },
   "a-2269": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/zubeh-r/verl-ngerungsstangen/verlaengerungsstange-bronze-verwittert-hunter/a-2269"
+    "url": "https://www.creoven.de/deckenventilator/hubv/a-2269"
   },
   "a-2271": {
     "status": "IN_STOCK",
@@ -3864,7 +3860,7 @@
     "url": "https://www.creoven.de/deckenventilator/72154/a-1353201573"
   },
   "8704740": {
-    "status": "IN_STOCK",
+    "status": "OUT_OF_STOCK",
     "url": "https://www.creoven.de/deckenventilator/everett/a-1353201574"
   },
   "a-1353201576": {
@@ -4121,7 +4117,7 @@
   },
   "a-1353201752": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/zubehoer/verlaengerungsstangen/verlaengerungsstange-aluminium-roh-fuer-hunter-outdoor-deckenventilator/a-1353201752"
+    "url": "https://www.creoven.de/deckenventilator/arod/a-1353201752"
   },
   "a-1353201754": {
     "status": "IN_STOCK",
@@ -4129,7 +4125,7 @@
   },
   "a-1353201755": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/zubehoer/verlaengerungsstangen/verlaengerungsstange-new-bronze-fuer-hunter-outdoor-deckenventilator/a-1353201755"
+    "url": "https://www.creoven.de/deckenventilator/hunb/a-1353201755"
   },
   "a-1353201772": {
     "status": "IN_STOCK",
@@ -4493,7 +4489,7 @@
   },
   "a-1353203366": {
     "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/zubehoer/verlaengerungsstange-bronze-patina-fuer-hunter-deckenventilator/a-1353203366"
+    "url": "https://www.creoven.de/deckenventilator/hupb/a-1353203366"
   },
   "a-1353203390": {
     "status": "IN_STOCK",
@@ -5982,10 +5978,6 @@
   "a-1353207276": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/industrial/a-1353207276"
-  },
-  "a-1353207277": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/elyse/a-1353207277"
   },
   "a-1353207279": {
     "status": "IN_STOCK",
