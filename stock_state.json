@@ -2115,10 +2115,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-134285"
   },
-  "a-134287": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/cruiser/a-134287"
-  },
   "a-134296": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/rudder/a-134296"
@@ -6866,5 +6862,9 @@
   "a-1353208869": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/klim/a-1353208869"
+  },
+  "a-1353208898": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208898"
   }
 }
