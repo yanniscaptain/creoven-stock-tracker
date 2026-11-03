@@ -275,10 +275,6 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/comettiffany/a-1852"
   },
-  "a-1855": {
-    "status": "IN_STOCK",
-    "url": "https://www.creoven.de/deckenventilator/nightflight/a-1855"
-  },
   "a-1856": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/nightflight/a-1856"
@@ -3856,7 +3852,7 @@
     "url": "https://www.creoven.de/deckenventilator/72154/a-1353201573"
   },
   "8704740": {
-    "status": "OUT_OF_STOCK",
+    "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/everett/a-1353201574"
   },
   "a-1353201576": {
@@ -6862,5 +6858,9 @@
   "a-1353208898": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/cruiser/a-1353208898"
+  },
+  "a-1353208902": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/builderelite/a-1353208902"
   }
 }
