@@ -35,6 +35,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/n232/a-189"
   },
+  "a-191": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/n250a/a-191"
+  },
   "a-197": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/n320/a-197"
@@ -731,6 +735,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzglaeser/westinghouse-ersatzglas-fuer-deckenventilator-everett-nickel-72152/a-3210"
   },
+  "3213": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzglas-fuer-melton/a-3213"
+  },
   "a-3226": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/portland/a-3226"
@@ -738,6 +746,10 @@
   "a-3356": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/banus/a-3356"
+  },
+  "a-3359": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/bahia/a-3359"
   },
   "a-3360": {
     "status": "IN_STOCK",
@@ -1627,6 +1639,10 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/bendan/a-72069"
   },
+  "a-72070": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/bendan/a-72070"
+  },
   "a-72071": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/bendan/a-72071"
@@ -2446,6 +2462,10 @@
   "a-312263": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/genuino/a-312263"
+  },
+  "a-312264": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/genuino/a-312264"
   },
   "a-312265": {
     "status": "IN_STOCK",
