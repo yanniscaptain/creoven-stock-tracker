@@ -4116,7 +4116,7 @@
     "url": "https://www.creoven.de/deckenventilator/corso/a-1353201799"
   },
   "NEW-979": {
-    "status": "IN_STOCK",
+    "status": "OUT_OF_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-je-modell/ersatzteile-fuer-faro-deckenventilator-33350-mallorca/a-1353201803"
   },
   "a-1353201804": {
@@ -4279,7 +4279,7 @@
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/athena/a-1353202339"
   },
-  "1353202367": {
+  "FL\u00dcGEL-1054": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/ersatzteile/ersatzteile-fuer-westinghouse-deckenventilator-78006-combo/a-1353202367"
   },
@@ -6834,5 +6834,9 @@
   "a-1353208902": {
     "status": "IN_STOCK",
     "url": "https://www.creoven.de/deckenventilator/builderelite/a-1353208902"
+  },
+  "a-1353208930": {
+    "status": "IN_STOCK",
+    "url": "https://www.creoven.de/deckenventilator/universal/a-1353208930"
   }
 }
